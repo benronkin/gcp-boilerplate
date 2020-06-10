@@ -1,0 +1,7 @@
+.gcloudignore
+.git
+.prettierrc
+.eslint.json
+node_modules
+set-env-vars.js
+!config
